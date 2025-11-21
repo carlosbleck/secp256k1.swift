@@ -56,7 +56,6 @@ let package = Package(
                 "exporter"
             ],
             sources: [
-                ".",
                 "secp256k1/src",
                 "secp256k1/include",
                 "secp256k1/contrib",
